@@ -98,7 +98,7 @@ param(
     # name       : CENTOS_8_64
     # ip_address : 10.201.100.226
     # family     : LINUX
-    # host_name  : flexsiemsup0.sharonview.org
+    # host_name  : host.domain.com
     ###############
 }
 
